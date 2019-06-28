@@ -4,7 +4,7 @@ Game master script for Board game Avalon(https://boardgamegeek.com/boardgame/128
 # アバロンゲームマスター
 アバロンのゲーム開始時のゲームマスターです。
 
-# Usage
+## Usage
 `$ sh avaron.sh <require: number of participants>`
 ex. 
 `$ sh avaron.sh 6`
